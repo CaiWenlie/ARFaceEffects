@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zelda - Breath Of The Wild
+* source:	https://sketchfab.com/3d-models/zelda-breath-of-the-wild-bf99374334a64291ae2876c83269adb6
+* author:	theStoff (https://sketchfab.com/theStoff)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zelda - Breath Of The Wild" (https://sketchfab.com/3d-models/zelda-breath-of-the-wild-bf99374334a64291ae2876c83269adb6) by theStoff (https://sketchfab.com/theStoff) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
