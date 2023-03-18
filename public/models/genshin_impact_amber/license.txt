@@ -1,0 +1,11 @@
+Model Information:
+* title:	Genshin Impact: Amber
+* source:	https://sketchfab.com/3d-models/genshin-impact-amber-8b87537311bb4855993ccb4ae5eb268f
+* author:	Alqueit (https://sketchfab.com/Alqueit)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Genshin Impact: Amber" (https://sketchfab.com/3d-models/genshin-impact-amber-8b87537311bb4855993ccb4ae5eb268f) by Alqueit (https://sketchfab.com/Alqueit) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
